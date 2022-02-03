@@ -1,0 +1,42 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Probando <CounerApp /> Debe mostrar <CounerApp /> correctamente 1`] = `
+<div
+  className="allbody"
+>
+  <h1>
+    Energy Counter
+  </h1>
+  <h2>
+     
+    3
+     
+  </h2>
+  <div>
+    <button
+      className="b"
+      onClick={[Function]}
+    >
+      -1
+    </button>
+    <button
+      className="b"
+      onClick={[Function]}
+    >
+      End Turn
+    </button>
+    <button
+      className="b"
+      onClick={[Function]}
+    >
+      +1
+    </button>
+  </div>
+  <button
+    className="br"
+    onClick={[Function]}
+  >
+    Reset
+  </button>
+</div>
+`;
