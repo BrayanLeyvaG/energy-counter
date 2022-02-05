@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/brayanleyvag.github.io/energy-counter/static/css/main.ed797756.css",
+    "main.js": "/brayanleyvag.github.io/energy-counter/static/js/main.7097bf41.js",
+    "static/media/awp.png": "/brayanleyvag.github.io/energy-counter/static/media/awp.f492b8c4ed4c4db483d2.png",
+    "index.html": "/brayanleyvag.github.io/energy-counter/index.html",
+    "main.ed797756.css.map": "/brayanleyvag.github.io/energy-counter/static/css/main.ed797756.css.map",
+    "main.7097bf41.js.map": "/brayanleyvag.github.io/energy-counter/static/js/main.7097bf41.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ed797756.css",
+    "static/js/main.7097bf41.js"
+  ]
+}
