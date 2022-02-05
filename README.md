@@ -1,1 +1,1 @@
-Simple energy counter for Axie Infinity 
+Energy counter for Axie Infinity 

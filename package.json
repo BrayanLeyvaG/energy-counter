@@ -2,7 +2,7 @@
   "name": "counter-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "brayanleyvag.github.io/energy-counter.github.io",
+  "homepage": "brayanleyvag.github.io/energy-counter",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.1",
     "@testing-library/react": "^12.1.2",
